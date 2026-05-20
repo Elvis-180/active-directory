@@ -4,6 +4,20 @@ A complete step-by-step IT infrastructure setup guide covering DNS, Active Direc
 
 ---
 
+## Table of Contents
+1. [Project Overview](#project-overview)
+2. [Project Architecture](#project-architecture)
+3. [Prerequisites](#prerequisites)
+4. [DNS Configuration](#dns-configuration)
+5. [Active Directory Domain Services (AD DS)](#active-directory-domain-services-ad-ds)
+6. [DHCP Server Configuration](#dhcp-server-configuration)
+7. [Windows 10  Domain Join and Configuration](#windows-10-domain-joint--and-configuration)
+8. [Quick Reference Commands](#quick-reference-commands)
+9. [Screenshots](#screenshots)
+10. [Lessons Learned](#lessons-learned)
+11. [What Next](#what-next)
+
+---
 
 ##  Project Overview
 This project documents the setup of a smallenterprise IT environment built from scratch using Windows Server 2025. The infarastructure includes a fully functional domain controller with Active Directory, DNS, DHCP, Group Policy and a windows 10 client joined to the domain.
@@ -200,7 +214,7 @@ Audit Policy    : Log success & failure for logon events
 
 ---
 
-## 4. Windows 10 – Domain Join & Configuration
+## 4. Windows 10 Domain Join and Configuration
 
 ### 4.1 Configure DNS on Windows 10
 
