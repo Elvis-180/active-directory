@@ -15,7 +15,7 @@ A complete step-by-step IT infrastructure setup guide covering DNS, Active Direc
 8. [Quick Reference Commands](#quick-reference-commands)
 9. [Screenshots](#screenshots)
 10. [Lessons Learned](#lessons-learned)
-11. [What Next](#what-next)
+11. [Next Steps](#next-steps)
 
 ---
 
@@ -325,7 +325,7 @@ Verifying DNS
 
   ---
   
-## What Next
+## Next Steps
 - Implement a backup strategy using windows server backup
 - Configure Remote Desktop Services (RDS) for remote access
 - Set up  SIEM tool (Splunk) for log monitoring and alerting
