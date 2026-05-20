@@ -10,7 +10,7 @@ This project documents the setup of a smallenterprise IT environment built from 
 
 | Component | Description |
 |---|---|
-| Windows Server 2022 | Primary Domain Controller setup |
+| Windows Server 2025 | Primary Domain Controller setup |
 | DNS | Name resolution for domain and clients |
 | Active Directory (AD DS) | Users, Groups, OUs, and Group Policy |
 | DHCP | Automatic IP assignment for network clients |
