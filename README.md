@@ -58,7 +58,7 @@ This project documents the setup of a smallenterprise IT environment built from 
 
 ##  Prerequisites
 
-- [ ] Windows Server 2022 ISO installed and activated
+- [ ] Windows Server 2025 ISO installed and activated
 - [ ] Static IP assigned to the server **before** AD DS installation
 - [ ] Windows 10 Pro client machine on the same network (internal)
 
