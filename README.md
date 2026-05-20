@@ -1,6 +1,6 @@
 #  Active Directory, Windows Server, DHCP
 
-A complete step-by-step IT infrastructure setup guide covering DNS, Active Directory Domain Services, Windows Server 2022, Windows 10 client integration, DHCP
+A complete step-by-step IT infrastructure setup guide covering DNS, Active Directory Domain Services, Windows Server 2025, Windows 10 client integration, DHCP
 
 ---
 
