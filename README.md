@@ -68,7 +68,7 @@ This project documents the setup of a smallenterprise IT environment built from 
 
 ```
 Domain Name        : cis.net
-Domain Controller  : DC01 (Windows Server 2022)
+Domain Controller  : DC01 (Windows Server 2025)
 Server IP          : 192.168.1.1
 DHCP Scope         : 192.168.1.1 – 192.168.1.9
 Subnet Mask        : 255.255.255.0
