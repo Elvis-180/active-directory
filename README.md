@@ -33,7 +33,7 @@ This project documents the setup of a smallenterprise IT environment built from 
            │                                               │
            ▼ [Static IP: 192.168.1.1 ]                     ▼ [Dynamic IP via DHCP]
     ┌──────────────────────────────────────┐       ┌──────────────────────────────────────┐
-    │        WINDOWS SERVER (DC01)         │       │          WINDOWS 10 CLIENT           │
+    │        WINDOWS SERVER                │       │          WINDOWS 10 CLIENT           │
     ├──────────────────────────────────────┤       ├──────────────────────────────────────┤
     │  • Domain:   cis.net                 │       │  • Hostname: MANAGER.cis.net         │
     │  • Identity: Active Directory        │       │  • Status: Domain-Joined Endpoint    │
@@ -42,7 +42,7 @@ This project documents the setup of a smallenterprise IT environment built from 
     │                                      │       │ ┌──────────────────────────────────┐ │
     │  [cis.net (Root)]                    │       │ │ IP Address:  192.168.1.4         │ │
     │    ├──   computer-OU                 │       | │ Subnet Mask: 255.255.255.0       │ │
-    │    │    └──   PC01 (Windows 10)      │ ════> │ │ Gateway:     192.168.1.2         │ │
+    │    │    └──   MANAGER                │ ════> │ │ Gateway:     192.168.1.2         │ │
     │    │                                 │       │ │ Primary DNS: 192.168.1.1         │ │
     │    └──   Users org U                 │       │ └──────────────────────────────────┘ │
     │         └──   Ambe Peter             │       │                                      │
@@ -196,7 +196,7 @@ Audit Policy    : Log success & failure for logon events
 |Default Gateway  | 192.168.1.2|
 |DNS Server       |192.168.1.1|
 |Exclusions       | 192.168.1.1, 192.168.1.2|
-5. Select **Yes, I want to activate this scope now** → **Finish**
+5. Select **Yes, to activate the scope** → **Finish**
 
 ---
 
