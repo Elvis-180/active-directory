@@ -19,6 +19,10 @@ A complete step-by-step IT infrastructure setup guide covering DNS, Active Direc
 
 ---
 
+##  Full Report
+
+[  AD SOC Project Documentation (PDF)](AD%20SOC%20Project%20Documentation%20Green.pdf)
+
 ##  Project Overview
 This project documents the setup of a smallenterprise IT environment built from scratch using Windows Server 2025. The infarastructure includes a fully functional domain controller with Active Directory, DNS, DHCP, Group Policy and a windows 10 client joined to the domain.
 
